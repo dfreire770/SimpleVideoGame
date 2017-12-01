@@ -1,0 +1,14 @@
+.container {
+	height: 600px;
+	width: 1000px;
+	position: relative;
+	margin: 20px auto 0; 
+	overflow: hidden;
+}
+
+canvas {
+	height: 600px;
+	width: 1000px;
+	display: block;
+	background: url("images/background.png") center;
+}
